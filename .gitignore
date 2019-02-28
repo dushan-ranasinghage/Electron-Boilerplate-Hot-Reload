@@ -1,0 +1,9 @@
+#directories
+bower_components
+node_modules
+electron-quick-start-win32-x64
+dist
+
+#files
+*.tgz
+*.log
